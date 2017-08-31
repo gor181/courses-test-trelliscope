@@ -6,7 +6,7 @@ This example creates a ggplot, then calls `facet_trelliscope()`.
 
 *** =instructions
 
-- Run the code to draw the plot.
+- Run the code to draw the plot. A plot should appear in an HTML pane.
 
 *** =hint
 
