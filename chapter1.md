@@ -1,4 +1,3 @@
----
 --- type:PlainMultipleChoiceExercise lang:r xp:50 skills:1 key:0ca7223a49
 ## The problems
 
